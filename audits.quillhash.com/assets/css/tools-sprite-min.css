@@ -1,1 +1,19 @@
-.solution-1,.solution-2,.solution-3{max-width:100%;background-size:100%;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/tools-sprite.png)}.solution-3{background-position:0 0;background-size:100%}.solution-1{background-position:0 45.416667%;background-size:111.206897%}.solution-2{background-position:0 100%;background-size:113.157895%}
+.solution-1,
+.solution-2,
+.solution-3 {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/tools-sprite.png);
+}
+.solution-3 {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.solution-1 {
+  background-position: 0 45.416667%;
+  background-size: 111.206897%;
+}
+.solution-2 {
+  background-position: 0 100%;
+  background-size: 113.157895%;
+}

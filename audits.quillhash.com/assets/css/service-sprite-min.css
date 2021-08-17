@@ -1,1 +1,15 @@
-.illustration1,.illustration5{max-width:30%;background-size:100%;margin-bottom:20px;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/services-sprite.png)}.illustration1{background-position:0 0;background-size:100%}.illustration5{background-position:0 100%;background-size:100%}
+.illustration1,
+.illustration5 {
+  max-width: 30%;
+  background-size: 100%;
+  margin-bottom: 20px;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/services-sprite.png);
+}
+.illustration1 {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.illustration5 {
+  background-position: 0 100%;
+  background-size: 100%;
+}

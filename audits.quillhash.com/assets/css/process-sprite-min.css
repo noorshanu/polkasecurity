@@ -1,2 +1,50 @@
-.copy-pen,.draw,.globe,.notepad,.user,.verify-check,.window{max-width:100%;background-size:100%;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/process-sprite.png)}@media only screen and (max-width:767px){.copy-pen,.draw,.globe,.notepad,.user,.verify-check,.window{max-width:50%}}
-.copy-pen{background-position:0 0;background-size:100%}.draw{background-position:0 16.666667%;background-size:100%}.globe{background-position:0 33.333333%;background-size:100%}.notepad{background-position:0 50%;background-size:100%}.user{background-position:0 66.666667%;background-size:100%}.verify-check{background-position:0 83.333333%;background-size:100%}.window{background-position:0 100%;background-size:100%}
+.copy-pen,
+.draw,
+.globe,
+.notepad,
+.user,
+.verify-check,
+.window {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/process-sprite.png);
+}
+@media only screen and (max-width: 767px) {
+  .copy-pen,
+  .draw,
+  .globe,
+  .notepad,
+  .user,
+  .verify-check,
+  .window {
+    max-width: 50%;
+  }
+}
+.copy-pen {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.draw {
+  background-position: 0 16.666667%;
+  background-size: 100%;
+}
+.globe {
+  background-position: 0 33.333333%;
+  background-size: 100%;
+}
+.notepad {
+  background-position: 0 50%;
+  background-size: 100%;
+}
+.user {
+  background-position: 0 66.666667%;
+  background-size: 100%;
+}
+.verify-check {
+  background-position: 0 83.333333%;
+  background-size: 100%;
+}
+.window {
+  background-position: 0 100%;
+  background-size: 100%;
+}

@@ -1,1 +1,217 @@
-.asmx-blue,.biffy,.block-wrk,.btccredit,.centralex,.cxn,.difuse,.digipharm-logo,.digitalx,.discovery,.g,.ggf,.goldengoose,.kittiefight,.linkchain,.m,.momentum,.moonx,.mycro,.opendao{max-width:100%;background-size:100%;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/clients-sprite.png)}.digitalx{background-position:0 0;background-size:100%}.asmx-blue{background-position:0 6.39481%;background-size:123.333333%}.biffy{background-position:0 11.816497%;background-size:123.333333%}.centralex{background-position:0 17.238184%;background-size:123.333333%}.goldengoose{background-position:0 22.65987%;background-size:123.333333%}.kittiefight{background-position:0 28.081557%;background-size:123.333333%}.btccredit{background-position:0 33.503244%;background-size:123.333333%}.difuse{background-position:0 38.92493%;background-size:123.333333%}.digipharm-logo{background-position:0 44.346617%;background-size:123.333333%}.discovery{background-position:0 49.768304%;background-size:123.333333%}.g{background-position:0 55.189991%;background-size:123.333333%}.ggf{background-position:0 60.611677%;background-size:123.333333%}.linkchain{background-position:0 66.033364%;background-size:123.333333%}.m{background-position:0 71.455051%;background-size:123.333333%}.momentum{background-position:0 76.876738%;background-size:123.333333%}.moonx{background-position:0 82.298424%;background-size:123.333333%}.opendao{background-position:0 87.720111%;background-size:123.333333%}.mycro{background-position:0 93.141798%;background-size:134.274194%}.block-wrk{background-position:0 96.200814%;background-size:159.330144%}.cxn{background-position:0 100%;background-size:226.530612%}.oxycoin-logo,.pexo,.sparkle,.superdao,.travelhelper,.uniontron,.upswing,.yfiw,.yfuni{max-width:100%;background-size:100%;background-image:url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/client1-sprite.png)}.travelhelper{background-position:0 0;background-size:100%}.oxycoin-logo{background-position:0 12.171838%;background-size:113.703704%}.yfiw{background-position:0 26.133652%;background-size:113.703704%}.yfuni{background-position:0 40.095465%;background-size:113.703704%}.pexo{background-position:0 53.106682%;background-size:113.703704%}.superdao{background-position:0 66.229117%;background-size:113.703704%}.upswing{background-position:0 80.190931%;background-size:113.703704%}.sparkle{background-position:0 90.378007%;background-size:152.736318%}.uniontron{background-position:0 100%;background-size:208.843537%}.asko,.credits,.crytoknowmics,.eosgo,.eospark,.etherscan,.imeos,.lid-protocol,.mythx,.smartcontractaudits,.testonneed,.tozex{max-width:100%;background-size:100%;background-image:url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/partners-sprite.png)}.lid-protocol{background-position:0 0;background-size:100%}.mythx{background-position:0 12.717391%;background-size:100%}.tozex{background-position:0 25.434783%;background-size:100%}.asko{background-position:0 38.152174%;background-size:100%}.eosgo{background-position:0 49.681529%;background-size:100%}.etherscan{background-position:0 57.802875%;background-size:100%}.smartcontractaudits{background-position:0 68.043478%;background-size:100%}.imeos{background-position:0 75.431472%;background-size:107.569721%}.eospark{background-position:0 83.420776%;background-size:109.756098%}.crytoknowmics{background-position:0 88.698285%;background-size:111.570248%}.credits{background-position:0 94.969199%;background-size:112.5%}.testonneed{background-position:0 100%;background-size:119.469027%}
+.asmx-blue,
+.biffy,
+.block-wrk,
+.btccredit,
+.centralex,
+.cxn,
+.difuse,
+.digipharm-logo,
+.digitalx,
+.discovery,
+.g,
+.ggf,
+.goldengoose,
+.kittiefight,
+.linkchain,
+.m,
+.momentum,
+.moonx,
+.mycro,
+.opendao {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/clients-sprite.png);
+}
+.digitalx {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.asmx-blue {
+  background-position: 0 6.39481%;
+  background-size: 123.333333%;
+}
+.biffy {
+  background-position: 0 11.816497%;
+  background-size: 123.333333%;
+}
+.centralex {
+  background-position: 0 17.238184%;
+  background-size: 123.333333%;
+}
+.goldengoose {
+  background-position: 0 22.65987%;
+  background-size: 123.333333%;
+}
+.kittiefight {
+  background-position: 0 28.081557%;
+  background-size: 123.333333%;
+}
+.btccredit {
+  background-position: 0 33.503244%;
+  background-size: 123.333333%;
+}
+.difuse {
+  background-position: 0 38.92493%;
+  background-size: 123.333333%;
+}
+.digipharm-logo {
+  background-position: 0 44.346617%;
+  background-size: 123.333333%;
+}
+.discovery {
+  background-position: 0 49.768304%;
+  background-size: 123.333333%;
+}
+.g {
+  background-position: 0 55.189991%;
+  background-size: 123.333333%;
+}
+.ggf {
+  background-position: 0 60.611677%;
+  background-size: 123.333333%;
+}
+.linkchain {
+  background-position: 0 66.033364%;
+  background-size: 123.333333%;
+}
+.m {
+  background-position: 0 71.455051%;
+  background-size: 123.333333%;
+}
+.momentum {
+  background-position: 0 76.876738%;
+  background-size: 123.333333%;
+}
+.moonx {
+  background-position: 0 82.298424%;
+  background-size: 123.333333%;
+}
+.opendao {
+  background-position: 0 87.720111%;
+  background-size: 123.333333%;
+}
+.mycro {
+  background-position: 0 93.141798%;
+  background-size: 134.274194%;
+}
+.block-wrk {
+  background-position: 0 96.200814%;
+  background-size: 159.330144%;
+}
+.cxn {
+  background-position: 0 100%;
+  background-size: 226.530612%;
+}
+.oxycoin-logo,
+.pexo,
+.sparkle,
+.superdao,
+.travelhelper,
+.uniontron,
+.upswing,
+.yfiw,
+.yfuni {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/client1-sprite.png);
+}
+.travelhelper {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.oxycoin-logo {
+  background-position: 0 12.171838%;
+  background-size: 113.703704%;
+}
+.yfiw {
+  background-position: 0 26.133652%;
+  background-size: 113.703704%;
+}
+.yfuni {
+  background-position: 0 40.095465%;
+  background-size: 113.703704%;
+}
+.pexo {
+  background-position: 0 53.106682%;
+  background-size: 113.703704%;
+}
+.superdao {
+  background-position: 0 66.229117%;
+  background-size: 113.703704%;
+}
+.upswing {
+  background-position: 0 80.190931%;
+  background-size: 113.703704%;
+}
+.sparkle {
+  background-position: 0 90.378007%;
+  background-size: 152.736318%;
+}
+.uniontron {
+  background-position: 0 100%;
+  background-size: 208.843537%;
+}
+.asko,
+.credits,
+.crytoknowmics,
+.eosgo,
+.eospark,
+.etherscan,
+.imeos,
+.lid-protocol,
+.mythx,
+.smartcontractaudits,
+.testonneed,
+.tozex {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/partners-sprite.png);
+}
+.lid-protocol {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.mythx {
+  background-position: 0 12.717391%;
+  background-size: 100%;
+}
+.tozex {
+  background-position: 0 25.434783%;
+  background-size: 100%;
+}
+.asko {
+  background-position: 0 38.152174%;
+  background-size: 100%;
+}
+.eosgo {
+  background-position: 0 49.681529%;
+  background-size: 100%;
+}
+.etherscan {
+  background-position: 0 57.802875%;
+  background-size: 100%;
+}
+.smartcontractaudits {
+  background-position: 0 68.043478%;
+  background-size: 100%;
+}
+.imeos {
+  background-position: 0 75.431472%;
+  background-size: 107.569721%;
+}
+.eospark {
+  background-position: 0 83.420776%;
+  background-size: 109.756098%;
+}
+.crytoknowmics {
+  background-position: 0 88.698285%;
+  background-size: 111.570248%;
+}
+.credits {
+  background-position: 0 94.969199%;
+  background-size: 112.5%;
+}
+.testonneed {
+  background-position: 0 100%;
+  background-size: 119.469027%;
+}

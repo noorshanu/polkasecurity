@@ -1,1 +1,88 @@
-.audits-blue-logo,.banner-report,.facebook,.linkden,.medium,.quill-logo-blue,.quillaudits-blue-logo-text,.reddit,.telegram,.twitter{max-width:100%;background-size:100%;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/common-sprite-new.png)}.quillaudits-blue-logo-text{background-position:0 0;background-size:100%}.quill-logo-blue{background-position:0 9.832636%;background-size:147.552448%}.banner-report{background-position:0 20.902613%;background-size:155.147059%}.audits-blue-logo{background-position:0 40.789474%;background-size:329.6875%}.facebook{background-position:0 52.531646%;background-size:527.5%}.linkden{background-position:0 62.025316%;background-size:527.5%}.medium{background-position:0 71.518987%;background-size:527.5%}.reddit{background-position:0 81.012658%;background-size:527.5%}.telegram{background-position:0 90.506329%;background-size:527.5%}.twitter{background-position:0 100%;background-size:527.5%}.pop-audit,.pop-ggf,.pop-golden-goees,.pop-momentum,.pop-upswing,.pop-yfiw{max-width:100%;background-size:100%;background-image:url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/modal-sprite.png)}.pop-audit{background-position:0 0;background-size:100%}.pop-yfiw{background-position:0 75.531915%;background-size:235.433071%}.pop-golden-goees{background-position:0 80.628272%;background-size:262.280702%}.pop-momentum{background-position:0 87.165775%;background-size:262.280702%}.pop-ggf{background-position:0 93.121693%;background-size:287.5%}.pop-upswing{background-position:0 100%;background-size:305.102041%}
+.audits-blue-logo,
+.banner-report,
+.facebook,
+.linkden,
+.medium,
+.quill-logo-blue,
+.quillaudits-blue-logo-text,
+.reddit,
+.telegram,
+.twitter {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/common-sprite-new.png);
+}
+.quillaudits-blue-logo-text {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.quill-logo-blue {
+  background-position: 0 9.832636%;
+  background-size: 147.552448%;
+}
+.banner-report {
+  background-position: 0 20.902613%;
+  background-size: 155.147059%;
+}
+.audits-blue-logo {
+  background-position: 0 40.789474%;
+  background-size: 329.6875%;
+}
+.facebook {
+  background-position: 0 52.531646%;
+  background-size: 527.5%;
+}
+.linkden {
+  background-position: 0 62.025316%;
+  background-size: 527.5%;
+}
+.medium {
+  background-position: 0 71.518987%;
+  background-size: 527.5%;
+}
+.reddit {
+  background-position: 0 81.012658%;
+  background-size: 527.5%;
+}
+.telegram {
+  background-position: 0 90.506329%;
+  background-size: 527.5%;
+}
+.twitter {
+  background-position: 0 100%;
+  background-size: 527.5%;
+}
+.pop-audit,
+.pop-ggf,
+.pop-golden-goees,
+.pop-momentum,
+.pop-upswing,
+.pop-yfiw {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(https://d3kl7b7vq0nqu1.cloudfront.net/new/images/modal-sprite.png);
+}
+.pop-audit {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.pop-yfiw {
+  background-position: 0 75.531915%;
+  background-size: 235.433071%;
+}
+.pop-golden-goees {
+  background-position: 0 80.628272%;
+  background-size: 262.280702%;
+}
+.pop-momentum {
+  background-position: 0 87.165775%;
+  background-size: 262.280702%;
+}
+.pop-ggf {
+  background-position: 0 93.121693%;
+  background-size: 287.5%;
+}
+.pop-upswing {
+  background-position: 0 100%;
+  background-size: 305.102041%;
+}

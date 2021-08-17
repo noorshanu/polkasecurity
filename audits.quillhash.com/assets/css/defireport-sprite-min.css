@@ -1,1 +1,24 @@
-.defi-audit-report,.iegtazza-400x400,.testi-anshul,.testi-mohit{max-width:100%;background-size:100%;background-image:url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/defireports-sprite.png)}.defi-audit-report{background-position:0 0;background-size:100%}.iegtazza-400x400{background-position:0 72.208437%;background-size:372.727273%}.testi-anshul{background-position:0 86.104218%;background-size:372.727273%}.testi-mohit{background-position:0 100%;background-size:372.727273%}
+.defi-audit-report,
+.iegtazza-400x400,
+.testi-anshul,
+.testi-mohit {
+  max-width: 100%;
+  background-size: 100%;
+  background-image: url(../../../d3kl7b7vq0nqu1.cloudfront.net/new/images/defireports-sprite.png);
+}
+.defi-audit-report {
+  background-position: 0 0;
+  background-size: 100%;
+}
+.iegtazza-400x400 {
+  background-position: 0 72.208437%;
+  background-size: 372.727273%;
+}
+.testi-anshul {
+  background-position: 0 86.104218%;
+  background-size: 372.727273%;
+}
+.testi-mohit {
+  background-position: 0 100%;
+  background-size: 372.727273%;
+}
