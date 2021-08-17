@@ -228,9 +228,9 @@ p.banner-text {
   color: #fff !important;
   border: 1px solid #0e4a98;
 }
-.header-below {
+/* .header-below {
   top: 80px;
-}
+} */
 .no-banner .header-below {
   top: 0 !important;
 }
